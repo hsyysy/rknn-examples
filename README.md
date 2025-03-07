@@ -1,2 +1,2 @@
 # rknn-example
-C++ demos for rknnrt
+C demos for rknnrt
